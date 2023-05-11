@@ -1,0 +1,64 @@
+*{
+  font-family: sans-serif;
+}
+/* CSS START FROM HERE */
+.register-form{
+  width: 40%;
+  margin: 50px auto;
+
+}
+.main-form{
+  width: 100%;
+  padding: 50px;
+  border-radius: 10px;
+  background-color: #eee;
+}
+.main-form .image{
+  width: 100%;
+  text-align: center;
+}
+.main-form .image .img{
+  border-radius: 50%;
+  margin-top: 30px;
+  border: 2px solid red
+}
+.main-form h2{
+  font-size: 40px;
+  line-height: 50px;
+  text-transform: uppercase;
+  font-weight: 400px;
+  color: red;
+  margin: 20px auto;
+  text-align: center;
+}
+.main-form .form-group{
+  width: 100%;
+  margin: 15px auto;
+}
+.main-form .form-group label{
+  display: block;
+  font-size: 14px;
+  line-height: 24px;
+  text-transform: uppercase;
+  font-weight: 400px;
+  margin: 0px 0px 5px;
+  text-align: left;
+}
+.main-form .form-control{
+  width: 97%;
+  padding: 10px;
+  font-size: 13px;
+  border: 1px solid#000;
+  border-radius: 8px;
+}
+.main-form .btn-btn{
+  padding: 15px 40px;
+  border: 1px solid#000;
+  border-radius: 8px;
+  background-color: red;
+  text-transform: uppercase;
+  font-weight: 400px;
+  color: white;
+  font-size: 16px
+
+}
